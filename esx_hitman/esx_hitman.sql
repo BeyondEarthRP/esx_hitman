@@ -28,7 +28,7 @@ CREATE TABLE `fine_types_hitman` (
   PRIMARY KEY (`id`)
 );
 
-INSERT INTO `fine_types_mafia` (label, amount, category) VALUES 
+INSERT INTO `fine_types_hitman` (label, amount, category) VALUES 
 	('Assasination Invoice',100000,3)
 ;
 
