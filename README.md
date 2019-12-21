@@ -18,14 +18,22 @@ FXServer ESX Hitman Job
 1) CD in your resources/[esx] folder
 2) Clone the repository
 ```
-git clone https://github.com/MikeyJY/esx_hitman
+git clone https://github.com/BeyondEarthRP/esx_hitmanjob
 ```
-3) Import esx_hitman.sql in your database
+3) Import esx_hitmanjob.sql in your database
 
 4) Add this in your server.cfg :
 
 ```
-start esx_hitman
+start esx_hitmanjob
 ```
 
 
+-----
+THIS WAS JUST A REPACKING OF: https://github.com/MikeyJY/esx_hitman
+I'VE DONE NOTHING TO THIS OTHER THAN REORGANIZE FOR EASIER MANAGMENT.
+I DO NOT TAKE ANY CREDIT FOR THIS CODE. (all credit to MikeyJY - TY!)
+
+    BeyondEarthRP CHANGES:
+      - Removed nested subdirectory and moved files to root (for easier cloning & management)
+      - Renamed this to esx_hitmanjob
