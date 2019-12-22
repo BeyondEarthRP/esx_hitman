@@ -1,3 +1,5 @@
+USE `essentialmode`;
+
 INSERT INTO `addon_account` (name, label, shared) VALUES 
 	('society_hitman','Hitman',1)
 ;
